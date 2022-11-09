@@ -19,7 +19,7 @@
 [![Lua](https://img.shields.io/badge/-LUA-090909?style=for-the-badge&logo=Lua)](https://wikipedia.org/wiki/lua)
 [![C#](https://img.shields.io/badge/-Csharp-090909?style=for-the-badge&logo=Csharp)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)](https://wikipedia.org/wiki/java)
-[![MD](https://img.shields.io/badge/-md-090909?style=for-the-badge&logo=MD)]
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)](https://wikipedia.org/wiki/python)
 
 ### 🍫 Socials:
 
