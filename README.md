@@ -2,11 +2,9 @@
 
 # ❤ Hi, i'm [NeAleks](https://www.youtube.com/channel/UCK0bRnjFWIVE18HfjXkfbhg)!
 
-[![](https://komarev.com/ghpvc/?username=RIOTOFF&logo=github&style=for-the-badge&color=000000)](https://github.com/NeAleks18)
+[![](https://komarev.com/ghpvc/?username=NeAleks18&logo=github&style=for-the-badge&color=000000)](https://github.com/NeAleks18)
 <br />
-[![](https://img.shields.io/discord/979075440020959262?color=black&label=Server&logo=Discord&style=for-the-badge)](https://discordapp.com/users/401654910875205633)
-<br />
-[![](https://img.shields.io/youtube/channel/subscribers/UCGtE7ehjGCAd-iJKwebq05w?color=black&label=YouTube%20Subs&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCK0bRnjFWIVE18HfjXkfbhg)
+[![](https://img.shields.io/youtube/channel/subscribers/UCK0bRnjFWIVE18HfjXkfbhg?color=black&label=YouTube%20Subs&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCK0bRnjFWIVE18HfjXkfbhg)
 ## 👨‍💻 Some Info:
 - 🍕 My name's Alex.
 - 🍩 My hobbies is Programming and develop games.
