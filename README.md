@@ -1,4 +1,4 @@
-[![Header]([https://cdn.discordapp.com/attachments/979075441690284058/1039489474612183131/riotoff_discord_banner.gif](https://cdn.discordapp.com/attachments/692962322305515590/1039729829613944943/z636b11bcc0435.gif))](https://nealeks.bio.link)
+[![Header]([https://cdn.discordapp.com/attachments/1029417603569029131/1039732552711290881/z636b11bcc0435.gif](https://cdn.discordapp.com/attachments/1029417603569029131/1039732552711290881/z636b11bcc0435.gif))](https://nealeks.bio.link)
 
 # ❤ Hi, i'm [NeAleks](https://www.youtube.com/channel/UCK0bRnjFWIVE18HfjXkfbhg)!
 
