@@ -36,13 +36,12 @@
 
 ### 📈 Statistics:
 <!-- STATS:START -->
-[![RiotOff Github Stats](https://github-readme-stats.vercel.app/api?username=RiotOff&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/RiotOff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiotOff&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)](https://github.com/RiotOff)
+[![NeAleks Github Stats](https://github-readme-stats.vercel.app/api?username=NeAleks18&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/NeAleks18)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeAleks18&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)](https://github.com/NeAleks18)
 <!-- STATS:END -->
 
 <!-- LINKS:START -->
-[Web-Site]: https://riotoff.ml
-[Bio-Link]: https://riotoff.bio.link
-[VK]: https://vk.com/riotoff
-[Discord Server]: https://dsc.gg/riotoff
+[Bio-Link]: https://nealeks.bio.link
+[VK]: https://vk.com/nealeks18
+[Discord Server]: https://discordapp.com/users/401654910875205633/
 <!-- LINKS:END -->
