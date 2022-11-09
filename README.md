@@ -17,7 +17,7 @@
 [![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)](https://wikipedia.org/wiki/JavaScript)
 [![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=00B6FF)](https://wikipedia.org/wiki/Visual_Studio_Code)
 [![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=008CFF)](https://wikipedia.org/wiki/CSS)
-[![Sublime Text](https://img.shields.io/badge/-LUA-090909?style=for-the-badge&logo=Lua)](https://wikipedia.org/wiki/lua)
+[![Lua](https://img.shields.io/badge/-LUA-090909?style=for-the-badge&logo=Lua)](https://wikipedia.org/wiki/lua)
 
 ### 🍫 Socials:
 
@@ -30,8 +30,7 @@
 
 ### 🔨 Browsers im using/used:
 <!-- BROWSERS:START -->
-[![Chrome](https://img.shields.io/badge/-Chrome-090909?style=for-the-badge&logo=googlechrome&logoColor=FFC700)](https://wikipedia.org/wiki/Google_Chrome)
-[![Opera GX](https://img.shields.io/badge/-Opera%20GX-090909?style=for-the-badge&logo=opera&logoColor=FF0000)](https://wikipedia.org/wiki/OperaGX)
+[![Vivladi](https://img.shields.io/badge/-Vivladi-090909?style=for-the-badge&logo=vivladi&logoColor=FFC700)](https://wikipedia.org/wiki/Vivladi)
 <!-- BROWSERS:END -->
 
 ### 📈 Statistics:
