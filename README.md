@@ -1,4 +1,4 @@
-[![Header]([https://cdn.discordapp.com/attachments/1029417603569029131/1039732552711290881/z636b11bcc0435.gif](https://cdn.discordapp.com/attachments/1029417603569029131/1039732552711290881/z636b11bcc0435.gif))](https://nealeks.bio.link)
+https://nealeks.bio.link
 
 # ❤ Hi, i'm [NeAleks](https://www.youtube.com/channel/UCK0bRnjFWIVE18HfjXkfbhg)!
 
@@ -9,7 +9,6 @@
 - 🍕 My name's Alex.
 - 🍩 My hobbies is Programming and develop games.
 - ☕ On GitHub im showcasing codes.
-- 🍪 I have projects "[MarlyaRP](https://discord.gg/5auw83vgqF)".
 - 🥪 My email: nealeks18@mail.ru
 
 ### 📺 Languages and Programs:
@@ -19,7 +18,6 @@
 [![Lua](https://img.shields.io/badge/-LUA-090909?style=for-the-badge&logo=Lua)](https://wikipedia.org/wiki/lua)
 [![C#](https://img.shields.io/badge/-Csharp-090909?style=for-the-badge&logo=Csharp)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)](https://wikipedia.org/wiki/java)
-[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ### 🍫 Socials:
 
@@ -44,5 +42,5 @@
 <!-- LINKS:START -->
 [Bio-Link]: https://nealeks.bio.link
 [VK]: https://vk.com/nealeks18
-[Discord Server]: https://discordapp.com/users/401654910875205633/
+[Discord]: https://discordapp.com/users/401654910875205633/
 <!-- LINKS:END -->
