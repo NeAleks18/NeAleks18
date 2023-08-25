@@ -30,7 +30,7 @@ https://nealeks.bio.link
 
 ### 🔨 Browsers im using/used:
 <!-- BROWSERS:START -->
-[![Vivaldi](https://img.shields.io/badge/-Vivladi-090909?style=for-the-badge&logo=vivaldi&logoColor=FFC700)](https://vivaldi.com/)
+[![Vivaldi](https://img.shields.io/badge/-Vivaldi-090909?style=for-the-badge&logo=vivaldi&logoColor=FFC700)](https://vivaldi.com/)
 <!-- BROWSERS:END -->
 
 ### 📈 Statistics:
