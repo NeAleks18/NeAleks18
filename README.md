@@ -1,6 +1,6 @@
 https://nealeks.bio.link
 
-# ❤ Hi, i'm [NeAleks](https://www.youtube.com/channel/UCK0bRnjFWIVE18HfjXkfbhg)!
+# ❤ Hi, i'm NeAleks!
 
 [![](https://komarev.com/ghpvc/?username=NeAleks18&logo=github&style=for-the-badge&color=000000)](https://github.com/NeAleks18)
 <br />
@@ -13,7 +13,7 @@ https://nealeks.bio.link
 
 ### 📺 Languages and Programs:
 
-[![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)](https://wikipedia.org/wiki/JavaScript)
+[![CPP](https://img.shields.io/badge/-cpp-090909?style=for-the-badge&logo=cpp)
 [![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=00B6FF)](https://wikipedia.org/wiki/Visual_Studio_Code)
 [![Lua](https://img.shields.io/badge/-LUA-090909?style=for-the-badge&logo=Lua)](https://wikipedia.org/wiki/lua)
 [![C#](https://img.shields.io/badge/-Csharp-090909?style=for-the-badge&logo=Csharp)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
